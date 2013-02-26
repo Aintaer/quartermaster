@@ -1,0 +1,20 @@
+{
+  "name": "quartermaster",
+  "version": "0.0.0",
+  "description": "RequireJS module tracer and analyzer",
+  "main": "quartermaster.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "dependencies": {
+    "requirejs": ""
+  }
+  "keywords": [
+    "requirejs",
+    "amd",
+    "analysis"
+  ],
+  "author": "Alex Lee <aintaer@aintaer.com>",
+  "license": "MIT"
+}
