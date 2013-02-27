@@ -8,8 +8,9 @@
   },
   "repository": "",
   "dependencies": {
-    "requirejs": ""
-  }
+    "optimist": "*",
+    "requirejs": ">= 2"
+  },
   "keywords": [
     "requirejs",
     "amd",
